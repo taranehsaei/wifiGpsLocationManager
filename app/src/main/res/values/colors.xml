@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abi"> #060606  </color>
+    <color name="sabz"> #b2d5b4 </color>
+    <color name="colorPrimary">#008577</color>
+    <color name="sefid">#ffff</color>
+
+    <color name="colorAccent">#D81B60</color>
+</resources>
