@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">موقعیت مکانی</string>
+        <string name="get_location">موقعیت مکانی</string>
+        <string name="setting">تنظیمات</string>
+        <string name="text">اگر موقعیت مکانی شما فعال نمی‌باشد لطفا با استفاده از کلید زیر به قسمت تنظیمات رفته و موقعیت مکانی خود را فعال کنید</string>
+</resources>

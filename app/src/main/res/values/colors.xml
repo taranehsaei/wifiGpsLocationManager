@@ -2,8 +2,11 @@
 <resources>
     <color name="abi"> #060606  </color>
     <color name="sabz"> #b2d5b4 </color>
-    <color name="colorPrimary">#008577</color>
+    <color name="sorati">#b36df6</color>
     <color name="sefid">#ffff</color>
-
-    <color name="colorAccent">#D81B60</color>
+    <color name="sormeyi">#17299f</color>
+    <color name="sabzabi">#1ce185</color>
+    <color name="sabzabi2">#62fab2</color>
+    <color name="abikamrang">#80cfe6</color>
+    <color name="banafsh">#9c1ce1</color>
 </resources>

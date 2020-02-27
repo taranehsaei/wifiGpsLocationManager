@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@drawable/gps_launcher_background">
 
     <TextView
         android:layout_width="322dp"
@@ -15,25 +16,28 @@
         android:gravity="center"
         android:text="@string/text"
         android:textSize="20dp"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
+
     <Button
-        android:layout_width="wrap_content"
+        android:id="@+id/button_setting"
+        android:layout_width="187dp"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:id="@+id/button_setting"
-        android:text="تنظیمات"
+        android:background="@color/sorati"
+        android:text="@string/setting"
+        android:textColor="@color/sefid"
         tools:ignore="OnClick"
-        android:background="@color/colorAccent"
-        android:textColor="@color/sefid"/>
+        />
+
     <Button
         android:id="@+id/button_getLocation"
-        android:layout_width="wrap_content"
+        android:layout_width="135dp"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
+        android:background="@color/banafsh"
         android:text="@string/get_location"
-        tools:ignore="OnClick"
-        android:background="@color/colorPrimary"
-        android:textColor="@color/sefid"/>
+        android:textColor="@color/sefid"
+        tools:ignore="OnClick" />
 
 
 </LinearLayout>
